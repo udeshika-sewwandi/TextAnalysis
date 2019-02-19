@@ -1,0 +1,31 @@
+Neural network models have shown their promising opportunities for multi-task
+learning, which focus on learning the shared layers to extract the common and
+task-invariant features. However, in most existing approaches, the extracted shared
+features are prone to be contaminated by task-specific features or the noise brought
+by other tasks. In this paper, we propose an adversarial multi-task learning framework,
+alleviating the shared and private latent feature spaces from interfering with
+each other. We conduct extensive experiments on 16 different text classification
+tasks, which demonstrates the benefits of our approach. Besides, we show that the
+shared knowledge learned by our proposed model can be regarded as off-the-shelf
+knowledge and easily transferred to new tasks.
+
+Multi-task learning is an effective approach to improve the performance of a single task with
+the help of other related tasks. Recently, neural-based models for multi-task learning have become
+very popular, ranging from computer vision (Misra et al., 2016; Zhang et al., 2014) to natural
+language processing (Collobert andWeston, 2008; Luong et al., 2015), since they provide a convenient
+way of combining information from multiple tasks.
+However, most existing work on multi-task learning (Liu et al., 2016c,b) attempts to divide the
+features of different tasks into private and shared spaces, merely based on whether parameters of some components should be shared. As shown in Figure 1-(a), the general shared-private model introduces
+two feature spaces for any task: one is used to store task-dependent features, the other is
+used to capture shared features. The major limitation of this framework is that the shared feature
+space could contain some unnecessary task-specific features, while some sharable features
+could also be mixed in private space, suffering from feature redundancy.
+Taking the following two sentences as examples, which are extracted from two different sentiment
+classification tasks: Movie reviews and Baby products reviews.
+The infantile cart is simple and easy to use. This kind of humour is infantile and boring.
+The word �infantile� indicates negative sentiment in Movie task while it is neutral in Baby task.
+However, the general shared-private model could place the task-specific word �infantile� in a
+shared space, leaving potential hazards for other tasks. Additionally, the capacity of shared space
+could also be wasted by some unnecessary features.
+To address this problem, in this paper we propose an adversarial multi-task framework, in
+which the shared and private feature spaces are in herently disjoint by introducing orthogonality constraints.Specifically, we design a generic shared private learning framework to model the text sequence.
