@@ -25,9 +25,23 @@
     <dependency>
       <groupId>edu.stanford.nlp</groupId>
       <artifactId>stanford-corenlp</artifactId>
-      <version>3.5.2</version>
+      <version>3.9.2</version>
       <classifier>models</classifier>
     </dependency>
+
+    <dependency>
+      <groupId>edu.stanford.nlp</groupId>
+      <artifactId>stanford-srparser</artifactId>
+      <version>3.5.2</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/xom/xom -->
+    <dependency>
+      <groupId>xom</groupId>
+      <artifactId>xom</artifactId>
+      <version>1.2.5</version>
+    </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-core -->
     <dependency>
@@ -43,14 +57,21 @@
       <version>3.6.0</version>
     </dependency>
 
-    <!-- https://mvnrepository.com/artifact/net.sf.jazzy/jazzy -->
-    <!--<dependency>-->
-    <!--<groupId>net.sf.jazzy</groupId>-->
-    <!--<artifactId>jazzy</artifactId>-->
-    <!--<version>0.5.2-rtext-1.4.1</version>-->
-    <!--</dependency>-->
-
-
+    <dependency>
+      <groupId>com.microsoft.azure</groupId>
+      <artifactId>azure</artifactId>
+      <version>1.9.0</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-net</groupId>
+      <artifactId>commons-net</artifactId>
+      <version>3.3</version>
+    </dependency>
+    <dependency>
+      <groupId>com.microsoft.azure.cognitiveservices</groupId>
+      <artifactId>azure-cognitiveservices-spellcheck</artifactId>
+      <version>1.0.1</version>
+    </dependency>
   </dependencies>
 
   <build>
