@@ -1,0 +1,225 @@
+neural is a correct word
+network is a correct word
+models is a correct word
+have is a correct word
+shown is a correct word
+their is a correct word
+promising is a correct word
+opportunities is a correct word
+for is a correct word
+Suggestions for word multi-task: multi, multimedia, multiple, ultra, ultimate
+learning is a correct word
+No suggestions found for word:,
+which is a correct word
+focus is a correct word
+Suggestions for word on: one, ons, once, ones, only
+learning is a correct word
+the is a correct word
+shared is a correct word
+layers is a correct word
+Suggestions for word to: toe, tom, ton, too, top
+extract is a correct word
+the is a correct word
+common is a correct word
+and is a correct word
+Suggestions for word task-invariant: humanitarian, invasion, tasks, vegetarian, assistant
+features is a correct word
+No suggestions found for word:.
+however is a correct word
+No suggestions found for word:,
+Suggestions for word in: inc, ind, inf, ing, ink
+most is a correct word
+existing is a correct word
+approaches is a correct word
+No suggestions found for word:,
+the is a correct word
+Suggestions for word extracted: extract, extraction, extra, extras, extreme
+shared is a correct word
+features is a correct word
+are is a correct word
+Suggestions for word prone: pro, probe, prove, phone, proc
+Suggestions for word to: toe, tom, ton, too, top
+Suggestions for word be: bed, bee, ben, bet, beam
+Suggestions for word contaminated: contamination, contained, contain, contacted, container
+Suggestions for word by: bye, byte, boys, buys, bytes
+Suggestions for word task-specific: specific, tasks, specify, specified, taste
+features is a correct word
+Suggestions for word or: org, oral, orgy, ours, orbit
+the is a correct word
+noise is a correct word
+brought is a correct word
+Suggestions for word by: bye, byte, boys, buys, bytes
+other is a correct word
+tasks is a correct word
+No suggestions found for word:.
+Suggestions for word in: inc, ind, inf, ing, ink
+this is a correct word
+paper is a correct word
+No suggestions found for word:,
+Suggestions for word we: web, wed, wet, weak, wear
+propose is a correct word
+Suggestions for word an: ana, and, ann, ant, any
+Suggestions for word adversarial: adverse, advertiser, advertisers, advert, advertise
+Suggestions for word multi-task: multi, multimedia, multiple, ultra, ultimate
+learning is a correct word
+framework is a correct word
+No suggestions found for word:,
+Suggestions for word alleviating: aviation, allowing, allen, editing, listing
+the is a correct word
+shared is a correct word
+and is a correct word
+private is a correct word
+Suggestions for word latent: latest, later, latex, patent, latin
+feature is a correct word
+spaces is a correct word
+from is a correct word
+Suggestions for word interfering: interference, interesting, interface, interfaces, interim
+with is a correct word
+each is a correct word
+other is a correct word
+No suggestions found for word:.
+Suggestions for word we: web, wed, wet, weak, wear
+conduct is a correct word
+extensive is a correct word
+experiments is a correct word
+Suggestions for word on: one, ons, once, ones, only
+No suggestions found for word:16
+different is a correct word
+text is a correct word
+classification is a correct word
+tasks is a correct word
+No suggestions found for word:,
+which is a correct word
+demonstrates is a correct word
+the is a correct word
+benefits is a correct word
+Suggestions for word of: off, offer, often, sofa, soft
+our is a correct word
+approach is a correct word
+No suggestions found for word:.
+besides is a correct word
+No suggestions found for word:,
+Suggestions for word we: web, wed, wet, weak, wear
+show is a correct word
+that is a correct word
+the is a correct word
+shared is a correct word
+knowledge is a correct word
+learned is a correct word
+Suggestions for word by: bye, byte, boys, buys, bytes
+our is a correct word
+proposed is a correct word
+model is a correct word
+can is a correct word
+Suggestions for word be: bed, bee, ben, bet, beam
+regarded is a correct word
+Suggestions for word as: ash, ask, asn, asp, ass
+Suggestions for word off-the-shelf: offense, offset, offers, offensive, offer
+knowledge is a correct word
+and is a correct word
+easily is a correct word
+transferred is a correct word
+Suggestions for word to: toe, tom, ton, too, top
+new is a correct word
+tasks is a correct word
+No suggestions found for word:.
+Suggestions for word multi-task: multi, multimedia, multiple, ultra, ultimate
+learning is a correct word
+Suggestions for word is: isa, iso, isp, ist, isbn
+Suggestions for word an: ana, and, ann, ant, any
+effective is a correct word
+approach is a correct word
+Suggestions for word to: toe, tom, ton, too, top
+improve is a correct word
+the is a correct word
+performance is a correct word
+Suggestions for word of: off, offer, often, sofa, soft
+Suggestions for word a: aaa, acc, act, ada, add
+single is a correct word
+task is a correct word
+with is a correct word
+the is a correct word
+help is a correct word
+Suggestions for word of: off, offer, often, sofa, soft
+other is a correct word
+related is a correct word
+tasks is a correct word
+No suggestions found for word:.
+recently is a correct word
+No suggestions found for word:,
+Suggestions for word neural-based: neural, neutral, naturals, increased, pleased
+models is a correct word
+for is a correct word
+Suggestions for word multi-task: multi, multimedia, multiple, ultra, ultimate
+learning is a correct word
+have is a correct word
+become is a correct word
+very is a correct word
+popular is a correct word
+No suggestions found for word:,
+ranging is a correct word
+from is a correct word
+computer is a correct word
+vision is a correct word
+Suggestions for word -lrb-: carb, herb, arbor, derby, herbs
+Suggestions for word misra: mistake, misc, miss, missouri, mistakes
+Suggestions for word et: etc, eat, edt, end, ent
+Suggestions for word al.: ala, ali, all, alt, alan
+No suggestions found for word:,
+No suggestions found for word:2016
+No suggestions found for word:;
+Suggestions for word zhang: hang, change, changed, changes, hanging
+Suggestions for word et: etc, eat, edt, end, ent
+Suggestions for word al.: ala, ali, all, alt, alan
+No suggestions found for word:,
+No suggestions found for word:2014
+Suggestions for word -rrb-: rrp, carb, herb, arbor, array
+Suggestions for word to: toe, tom, ton, too, top
+natural is a correct word
+language is a correct word
+processing is a correct word
+Suggestions for word -lrb-: carb, herb, arbor, derby, herbs
+Suggestions for word collobert: collector, collect, color, collectors, collar
+Suggestions for word andweston: anderson, andrews, newton, andreas, andrew
+No suggestions found for word:,
+No suggestions found for word:2008
+No suggestions found for word:;
+Suggestions for word luong: lung, long, along, belong, lang
+Suggestions for word et: etc, eat, edt, end, ent
+Suggestions for word al.: ala, ali, all, alt, alan
+No suggestions found for word:,
+No suggestions found for word:2015
+Suggestions for word -rrb-: rrp, carb, herb, arbor, array
+No suggestions found for word:,
+since is a correct word
+they is a correct word
+provide is a correct word
+Suggestions for word a: aaa, acc, act, ada, add
+convenient is a correct word
+way is a correct word
+Suggestions for word of: off, offer, often, sofa, soft
+combining is a correct word
+information is a correct word
+from is a correct word
+multiple is a correct word
+tasks is a correct word
+No suggestions found for word:.
+however is a correct word
+No suggestions found for word:,
+most is a correct word
+existing is a correct word
+work is a correct word
+Suggestions for word on: one, ons, once, ones, only
+Suggestions for word multi-task: multi, multimedia, multiple, ultra, ultimate
+learning is a correct word
+Suggestions for word -lrb-: carb, herb, arbor, derby, herbs
+Suggestions for word liu: linux, luis, lib, lid, lie
+Suggestions for word et: etc, eat, edt, end, ent
+Suggestions for word al.: ala, ali, all, alt, alan
+No suggestions found for word:,
+No suggestions found for word:2016c
+No suggestions found for word:,
+Suggestions for word b: bad, bag, bar, bay, bbc
+Suggestions for word -rrb-: rrp, carb, herb, arbor, array
+attempts is a correct word
+Suggestions for word to: toe, 

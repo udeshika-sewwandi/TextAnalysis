@@ -1,0 +1,78 @@
+Honestly last seven lectures are good .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Lectures are understandable .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Lecture slides are very useful to self-study also .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+The given opportunity to ask questions from the lecturer is appreciative .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+`` Good :-RRB- <br /> please do recap at class starting it &#039; s better for us .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+<br /> sometimes teaching speed is very high .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+<br /> <br /> Thanks !  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+:-RRB- <br /> '' The lectures are good . .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+but a bit speed.A in class working activity is a must one.So please take another hour in thursdays madame . ''  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 10, "token": "speed.A", "type": "UnknownToken", "suggestions": [{"suggestion": "speed. A", "score": 0.875}]}, {"offset": 54, "token": "one.So", "type": "UnknownToken", "suggestions": [{"suggestion": "one. So", "score": 0.875}]}, {"offset": 89, "token": "thursdays", "type": "UnknownToken", "suggestions": [{"suggestion": "Thursdays", "score": 0.875}]}]}
+
+<br /> We can hear your voice clearly and can understand the things you teach .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Presentation slides also good source to refer .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+lf you can do more example questions within the classroom and it will help us to understand the principles well .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+<br /> '' Lectures was well structured and well organized .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+It was easy to understand .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Lecture slides and labs were also well organized .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Lectures were good .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+understandable .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+The lecture slides were well organized and the examples done in the class helped a lot to learn this new language and also the principles of OOP .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Motivated to well .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Would have been better if we discussed more about the solutions of coding exercisers .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 74, "token": "exercisers", "type": "UnknownToken", "suggestions": [{"suggestion": "exercises", "score": 0.8840183877715735}]}]}
+
+I think i learned a lot from the codes you write in the board .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 8, "token": "i", "type": "UnknownToken", "suggestions": [{"suggestion": "I", "score": 0.875}]}]}
+
+When i compare my codes with yours i can learn about my mistakes and good coding practices that i should follow .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 5, "token": "i", "type": "UnknownToken", "suggestions": [{"suggestion": "I", "score": 0.875}]}, {"offset": 35, "token": "i", "type": "UnknownToken", "suggestions": [{"suggestion": "I", "score": 0.875}]}, {"offset": 96, "token": "i", "type": "UnknownToken", "suggestions": [{"suggestion": "I", "score": 0.875}]}]}
+
+There fore i think it would be great if we can discuss more examples in the class .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 0, "token": "There fore", "type": "UnknownToken", "suggestions": [{"suggestion": "Therefore", "score": 0.8943569643535945}]}, {"offset": 11, "token": "i", "type": "UnknownToken", "suggestions": [{"suggestion": "I", "score": 0.875}]}]}
+
+madam explained the oop concepts clearly with examples.lectures were interesting.we want more scenario examples and answers with explanations in future .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 46, "token": "examples.lectures", "type": "UnknownToken", "suggestions": [{"suggestion": "examples. Lectures", "score": 0.875}]}, {"offset": 69, "token": "interesting.we", "type": "UnknownToken", "suggestions": [{"suggestion": "interesting. We", "score": 0.875}]}]}
+
+I satisfy about first 7 lectures .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+That way of teaching is really good for coming lectures too .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+lectuers are very good .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 0, "token": "lectuers", "type": "UnknownToken", "suggestions": [{"suggestion": "lectures", "score": 0.9080610214766642}, {"suggestion": "lecturers", "score": 0.8038402236796328}]}]}
+
+take good effort to make undersatand every student in the room .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 25, "token": "undersatand", "type": "UnknownToken", "suggestions": [{"suggestion": "understand", "score": 0.9077381531806721}]}]}
+
+very helpfull .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 5, "token": "helpfull", "type": "UnknownToken", "suggestions": [{"suggestion": "helpful", "score": 0.9263994131031794}]}]}
+
+I was able to obtain a clear picture about OOP and its concepts .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+`` lecture slides , explanations were very clear .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 11, "token": "slides , explanations", "type": "UnknownToken", "suggestions": [{"suggestion": "slides, explanations", "score": 0.875}]}]}
+
+<br /> it &#039; s very good to letting ask questions and explain again with suitable examples .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+<br /> sometimes , some codes on white board were unclear at the back .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 7, "token": "sometimes , some", "type": "UnknownToken", "suggestions": [{"suggestion": "sometimes, some", "score": 0.875}]}]}
+
+<br /> overall very good !!!  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+<br /> '' The lectures were good and clear .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+And they weren &#039; t too fast .  : {"_type": "SpellCheck", "flaggedTokens": []}
+
+Writing code was somewhat confusing because I didn &#039; t know java before .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 46, "token": "didn", "type": "UnknownToken", "suggestions": [{"suggestion": "didn't", "score": 0.7562947285392398}]}]}
+
+Actually teaching is very good and can understand easily the concepts by examples which are given in the class.it will be more helpful if provide solved questions as well ! .  : {"_type": "SpellCheck", "flaggedTokens": [{"offset": 105, "token": "class.it", "type": "UnknownToken", "suggestions": [{"suggestion": "class. It", "score": 0.875}]}]}
+
+thankyou  : {"_type": "SpellCheck", "flaggedTokens": []}
+
