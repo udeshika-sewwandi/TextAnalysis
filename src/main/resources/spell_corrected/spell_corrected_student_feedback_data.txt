@@ -1,4 +1,4 @@
-Suggestions for word honestly: honest, honey, mostly, phones, honors
+Suggestions for word honestly: honest, honey, honolulu, correctly, mostly
 last is a correct word
 seven is a correct word
 lectures is a correct word
@@ -7,7 +7,7 @@ good is a correct word
 No suggestions found for word:.
 lectures is a correct word
 are is a correct word
-Suggestions for word understandable: understand, understanding, understood, undertake, undertaken
+Suggestions for word understandable: understanding, understand, undergraduate, understood, undertake
 No suggestions found for word:.
 lecture is a correct word
 slides is a correct word
@@ -15,7 +15,7 @@ are is a correct word
 very is a correct word
 useful is a correct word
 Suggestions for word to: toe, tom, ton, too, top
-Suggestions for word self-study: sells, selected, shelf, belfast, cloudy
+Suggestions for word self-study: selected, study
 also is a correct word
 No suggestions found for word:.
 the is a correct word
@@ -26,9 +26,9 @@ ask is a correct word
 questions is a correct word
 from is a correct word
 the is a correct word
-Suggestions for word lecturer: lecture, lectures, capture, feature, picture
-Suggestions for word is: isa, iso, isp, ist, isbn
-Suggestions for word appreciative: appreciate, appreciation, appreciated, appropriate, approximate
+Suggestions for word lecturer: lectures, lecture, featured, features, pictures
+Suggestions for word is: isa, iso, isp, ist, dis
+Suggestions for word appreciative: appreciation, appreciate, appreciated, appropriations, alternative
 No suggestions found for word:.
 No suggestions found for word:``
 good is a correct word
@@ -36,13 +36,13 @@ No suggestions found for word::-rrb-
 No suggestions found for word:<br />
 please is a correct word
 Suggestions for word do: doc, dod, doe, dog, dom
-Suggestions for word recap: rec, recall, recipe, receipt, recipes
-Suggestions for word at: ata, ate, ati, atm, atom
+Suggestions for word recap: recall, rehab, relax, relay, recipe
+Suggestions for word at: ata, ate, ati, atm, aaa
 class is a correct word
 starting is a correct word
-Suggestions for word it: its, item, intl, into, italy
+Suggestions for word it: its, bit, fit, hit, ian
 No suggestions found for word:&#039;
-Suggestions for word s: san, sas, sat, say, see
+No suggestions found for word:s
 better is a correct word
 for is a correct word
 Suggestions for word us: usa, usb, usc, usd, use
@@ -51,7 +51,7 @@ No suggestions found for word:<br />
 sometimes is a correct word
 teaching is a correct word
 speed is a correct word
-Suggestions for word is: isa, iso, isp, ist, isbn
+Suggestions for word is: isa, iso, isp, ist, dis
 very is a correct word
 high is a correct word
 No suggestions found for word:.
@@ -69,28 +69,28 @@ good is a correct word
 No suggestions found for word:.
 No suggestions found for word:.
 but is a correct word
-Suggestions for word a: aaa, acc, act, ada, add
+No suggestions found for word:a
 bit is a correct word
-Suggestions for word speed.a: speed, speeds, spend, speech, seeds
+Suggestions for word speed.a: speeds, speed, speech, seeds, spend
 Suggestions for word in: inc, ind, inf, ing, ink
 class is a correct word
 working is a correct word
 activity is a correct word
-Suggestions for word is: isa, iso, isp, ist, isbn
-Suggestions for word a: aaa, acc, act, ada, add
+Suggestions for word is: isa, iso, isp, ist, dis
+No suggestions found for word:a
 must is a correct word
-Suggestions for word one.so: bones, jones, tones, zones, honest
+No suggestions found for word:one.so
 please is a correct word
 take is a correct word
 another is a correct word
 hour is a correct word
 Suggestions for word in: inc, ind, inf, ing, ink
-Suggestions for word thursdays: thursday, tuesday, saturday, thumbs, today
-Suggestions for word madame: adams, damage, madness, damaged, damages
+Suggestions for word thursdays: thursday, tuesday, holidays, thumbnail, thumbnails
+Suggestions for word madame: adams, madrid, madison, madness, madonna
 No suggestions found for word:.
 No suggestions found for word:''
 No suggestions found for word:<br />
-Suggestions for word we: web, wed, wet, weak, wear
+Suggestions for word we: web, wed, wet, war, was
 can is a correct word
 hear is a correct word
 your is a correct word
@@ -112,7 +112,7 @@ source is a correct word
 Suggestions for word to: toe, tom, ton, too, top
 refer is a correct word
 No suggestions found for word:.
-Suggestions for word lf: left, life, lift, lab, las
+Suggestions for word lf: lab, las, law, lcd, led
 you is a correct word
 can is a correct word
 Suggestions for word do: doc, dod, doe, dog, dom
@@ -123,7 +123,7 @@ within is a correct word
 the is a correct word
 classroom is a correct word
 and is a correct word
-Suggestions for word it: its, item, intl, into, italy
+Suggestions for word it: its, bit, fit, hit, ian
 will is a correct word
 help is a correct word
 Suggestions for word us: usa, usb, usc, usd, use
@@ -143,7 +143,7 @@ and is a correct word
 well is a correct word
 organized is a correct word
 No suggestions found for word:.
-Suggestions for word it: its, item, intl, into, italy
+Suggestions for word it: its, bit, fit, hit, ian
 was is a correct word
 easy is a correct word
 Suggestions for word to: toe, tom, ton, too, top
@@ -162,7 +162,7 @@ lectures is a correct word
 were is a correct word
 good is a correct word
 No suggestions found for word:.
-Suggestions for word understandable: understand, understanding, understood, undertake, undertaken
+Suggestions for word understandable: understanding, understand, undergraduate, understood, undertake
 No suggestions found for word:.
 the is a correct word
 lecture is a correct word
@@ -178,7 +178,7 @@ Suggestions for word in: inc, ind, inf, ing, ink
 the is a correct word
 class is a correct word
 helped is a correct word
-Suggestions for word a: aaa, acc, act, ada, add
+No suggestions found for word:a
 lot is a correct word
 Suggestions for word to: toe, tom, ton, too, top
 learn is a correct word
@@ -189,8 +189,8 @@ and is a correct word
 also is a correct word
 the is a correct word
 principles is a correct word
-Suggestions for word of: off, offer, often, sofa, soft
-Suggestions for word oop: oops, loop, ooo, cop, hop
+Suggestions for word of: off, oak, obj, oct, odd
+Suggestions for word oop: ooo, oops, loop, cop, hop
 No suggestions found for word:.
 motivated is a correct word
 Suggestions for word to: toe, tom, ton, too, top
@@ -200,22 +200,22 @@ would is a correct word
 have is a correct word
 been is a correct word
 better is a correct word
-Suggestions for word if: info, diff, ian, ibm, ice
-Suggestions for word we: web, wed, wet, weak, wear
+Suggestions for word if: gif, ian, ibm, ice, icq
+Suggestions for word we: web, wed, wet, war, was
 discussed is a correct word
 more is a correct word
 about is a correct word
 the is a correct word
 solutions is a correct word
-Suggestions for word of: off, offer, often, sofa, soft
+Suggestions for word of: off, oak, obj, oct, odd
 coding is a correct word
-Suggestions for word exercisers: exercises, exercise, executive, executives, execute
+Suggestions for word exercisers: exercises, exercise, advertisers, executed
 No suggestions found for word:.
-Suggestions for word i: ian, ibm, ice, icq, ict
+No suggestions found for word:i
 think is a correct word
-Suggestions for word i: ian, ibm, ice, icq, ict
+No suggestions found for word:i
 learned is a correct word
-Suggestions for word a: aaa, acc, act, ada, add
+No suggestions found for word:a
 lot is a correct word
 from is a correct word
 the is a correct word
@@ -227,27 +227,33 @@ the is a correct word
 board is a correct word
 No suggestions found for word:.
 when is a correct word
-Suggestions for word i: ian, ibm, ice, icq, ict
+No suggestions found for word:i
 compare is a correct word
-Suggestions for word my: myth, myers, mysql, mac, man
+Suggestions for word my: amy, mac, man, map, mar
 codes is a correct word
 with is a correct word
 yours is a correct word
-Suggestions for word i: ian, ibm, ice, icq, ict
+No suggestions found for word:i
 can is a correct word
 learn is a correct word
 about is a correct word
-Suggestions for word my: myth, myers, mysql, mac, man
+Suggestions for word my: amy, mac, man, map, mar
 mistakes is a correct word
 and is a correct word
 good is a correct word
 coding is a correct word
 practices is a correct word
 that is a correct word
-Suggestions for word i: ian, ibm, ice, icq, ict
+No suggestions found for word:i
 should is a correct word
 follow is a correct word
 No suggestions found for word:.
 there is a correct word
-Suggestions for word fore: for, ford, fork, form, fort
-Sugg
+Suggestions for word fore: ford, fork, form, fort, fare
+No suggestions found for word:i
+think is a correct word
+Suggestions for word it: its, bit, fit, hit, ian
+would is a correct word
+Suggestions for word be: bed, bee, ben, bet, babe
+great is a correct word
+Suggestions for word if: gif, ian, ibm, ice, ic

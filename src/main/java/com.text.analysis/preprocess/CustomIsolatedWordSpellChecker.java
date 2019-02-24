@@ -3,7 +3,7 @@ package com.text.analysis.preprocess;
 import java.io.File;
 import java.io.IOException;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.search.spell.JaroWinklerDistance;
+import org.apache.lucene.search.spell.NGramDistance;
 import org.apache.lucene.search.spell.PlainTextDictionary;
 import org.apache.lucene.search.spell.SpellChecker;
 import org.apache.lucene.store.Directory;
@@ -23,7 +23,7 @@ public class CustomIsolatedWordSpellChecker {
         new PlainTextDictionary(new File("src/main/resources/dictionary.txt")),
         new IndexWriterConfig(Version.LUCENE_36, null),
         false);
-    spellChecker.setStringDistance(new JaroWinklerDistance());
+    spellChecker.setStringDistance(new NGramDistance());
   }
 
   public StringBuilder spellCheck(String wordForSuggestions) throws IOException {

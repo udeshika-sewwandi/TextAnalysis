@@ -22,7 +22,7 @@ public class CustomLemmatizer {
     String line;
     StringBuilder stringBuilder = new StringBuilder();
     List<String> sentences = new ArrayList<>();
-    String[] setenceArr = new String[sentences.size()];
+    String[] sentenceArr = new String[sentences.size()];
 
     InputStream posInputStream = new FileInputStream("src/main/resources/models/en-pos-maxent.bin");
     InputStream lemmaInputStream = new FileInputStream("src/main/resources/models/en-lemmatizer.dict");
@@ -33,7 +33,7 @@ public class CustomLemmatizer {
       sentences.add(line);
     }
 
-    String[] tags = tagger.tag(sentences.toArray(setenceArr));
+    String[] tags = tagger.tag(sentences.toArray(sentenceArr));
 
     SimpleLemmatizer simpleLemmatizer = new SimpleLemmatizer(lemmaInputStream);
 

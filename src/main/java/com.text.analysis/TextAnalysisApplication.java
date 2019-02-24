@@ -35,39 +35,6 @@ public class TextAnalysisApplication {
       simpleTokenizer.writeTokenizedStringToFile(
           Constants.TOKENIZED_RESEARCH_PAPER_DATA, tokenizedResearchPaper.toString());
 
-      // Isolated spell checking of the tokens
-      CustomIsolatedWordSpellChecker customSpellChecker = new CustomIsolatedWordSpellChecker();
-
-      BufferedReader reader =
-          new BufferedReader(new FileReader(Constants.TOKENIZED_STUDENT_FEEDBACK_DATA));
-      String line;
-
-      BufferedWriter writer =
-          new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_STUDENT_FEEDBACK_DATA));
-
-      while ((line = reader.readLine()) != null) {
-        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
-        writer.write(stringBuilder.toString());
-      }
-
-      reader = new BufferedReader(new FileReader(Constants.TOKENIZED_TWITTER_DATA));
-
-      writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_TWITTER_DATA));
-
-      while ((line = reader.readLine()) != null) {
-        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
-        writer.write(stringBuilder.toString());
-      }
-
-      reader = new BufferedReader(new FileReader(Constants.TOKENIZED_RESEARCH_PAPER_DATA));
-
-      writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_RESEARCH_PAPER_DATA));
-
-      while ((line = reader.readLine()) != null) {
-        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
-        writer.write(stringBuilder.toString());
-      }
-
       //      // Stemming the tokens
       CustomStemmer simpleStemmer = new CustomStemmer();
       StringBuilder stemmedTokens =
@@ -102,6 +69,39 @@ public class TextAnalysisApplication {
 
       customLemmatizer.writeLemmatizedStringToFile(
           Constants.LEMMATIZED_RESEARCH_PAPER_DATA, lemmatizedRDTokens.toString());
+
+      // Isolated spell checking of the tokens
+      CustomIsolatedWordSpellChecker customSpellChecker = new CustomIsolatedWordSpellChecker();
+
+      BufferedReader reader =
+          new BufferedReader(new FileReader(Constants.TOKENIZED_STUDENT_FEEDBACK_DATA));
+      String line;
+
+      BufferedWriter writer =
+          new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_STUDENT_FEEDBACK_DATA));
+
+      while ((line = reader.readLine()) != null) {
+        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        writer.write(stringBuilder.toString());
+      }
+
+      reader = new BufferedReader(new FileReader(Constants.TOKENIZED_TWITTER_DATA));
+
+      writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_TWITTER_DATA));
+
+      while ((line = reader.readLine()) != null) {
+        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        writer.write(stringBuilder.toString());
+      }
+
+      reader = new BufferedReader(new FileReader(Constants.TOKENIZED_RESEARCH_PAPER_DATA));
+
+      writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_RESEARCH_PAPER_DATA));
+
+      while ((line = reader.readLine()) != null) {
+        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        writer.write(stringBuilder.toString());
+      }
 
       // Context sensitive spell correction
       TextPreprocessUtil util = new TextPreprocessUtil();
