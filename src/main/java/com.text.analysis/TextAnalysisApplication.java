@@ -35,7 +35,7 @@ public class TextAnalysisApplication {
       simpleTokenizer.writeTokenizedStringToFile(
           Constants.TOKENIZED_RESEARCH_PAPER_DATA, tokenizedResearchPaper.toString());
 
-      //      // Stemming the tokens
+      // Stemming the tokens
       CustomStemmer simpleStemmer = new CustomStemmer();
       StringBuilder stemmedTokens =
           simpleStemmer.stemToken(Constants.TOKENIZED_STUDENT_FEEDBACK_DATA);
@@ -72,34 +72,35 @@ public class TextAnalysisApplication {
 
       // Isolated spell checking of the tokens
       CustomIsolatedWordSpellChecker customSpellChecker = new CustomIsolatedWordSpellChecker();
+      String line;
+      StringBuilder stringBuilder;
 
       BufferedReader reader =
           new BufferedReader(new FileReader(Constants.TOKENIZED_STUDENT_FEEDBACK_DATA));
-      String line;
-
       BufferedWriter writer =
           new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_STUDENT_FEEDBACK_DATA));
 
       while ((line = reader.readLine()) != null) {
-        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
         writer.write(stringBuilder.toString());
       }
 
       reader = new BufferedReader(new FileReader(Constants.TOKENIZED_TWITTER_DATA));
-
       writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_TWITTER_DATA));
 
+
       while ((line = reader.readLine()) != null) {
-        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
         writer.write(stringBuilder.toString());
       }
 
       reader = new BufferedReader(new FileReader(Constants.TOKENIZED_RESEARCH_PAPER_DATA));
+      writer = new BufferedWriter(new FileWriter("src/main/resources/spell_corrected/test.txt"));
 
-      writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_RESEARCH_PAPER_DATA));
-
+      System.out.println("Isolated word spell correction for research text");
       while ((line = reader.readLine()) != null) {
-        StringBuilder stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        stringBuilder = customSpellChecker.spellCheck(line.toLowerCase());
+        System.out.println(stringBuilder.toString());
         writer.write(stringBuilder.toString());
       }
 
