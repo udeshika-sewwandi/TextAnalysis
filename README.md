@@ -14,8 +14,8 @@ Alternatively to build and execute the project
 2. Run the main method in TextAnalysisApplication class
 
 A subscription key for Bing spell checker API used from a 7 days trial version. If it is expired please get a new key for
-Bing spell checker API and add it as an environment variable as AZURE_BING_SAMPLES_API_KEY
-Following are already obtained keys
+Bing spell checker API and add it as an environment variable as AZURE_BING_SAMPLES_API_KEY.
+Following are already obtained keys.
 Key 1: bcb3605303054b2996979978701a8cf6
 Key 2: 36d0c40b9e4a4003a772c2458e27c2ba
 
