@@ -95,7 +95,7 @@ public class TextAnalysisApplication {
       }
 
       reader = new BufferedReader(new FileReader(Constants.TOKENIZED_RESEARCH_PAPER_DATA));
-      writer = new BufferedWriter(new FileWriter("src/main/resources/spell_corrected/test.txt"));
+      writer = new BufferedWriter(new FileWriter(Constants.ISOLATED_SC_RESEARCH_PAPER_DATA));
 
       System.out.println("Isolated word spell correction for research text");
       while ((line = reader.readLine()) != null) {
