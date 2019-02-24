@@ -13,7 +13,7 @@ Alternatively
 1. Go to the project in a preferred IDE
 2. Run the main method in TextAnalysisApplication class
 
-#The out is located in resources folder of the project
+# The output is located in resources folder of the project
 1. Tokenized output contains in resources/tokenized folder
 2. Lemmatized output contains in resources/lemmatized_tokens folder
 3. Stemmed output contains in resources/stemmed_tokens folder
